@@ -1,0 +1,430 @@
+.logo img{
+    width: 100%; 
+    height: 95px; 
+    margin-top: -50px; 
+    border-radius: 100px;
+    margin-left: 5px;
+}
+#navbar{
+    /* padding-top: 35px; */
+    height: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+    /* position: absolute; */
+    /* opacity: 0.3; */
+    top: 0;
+    left: 0;
+    z-index: 999;
+     font-family: bold;
+}
+#navbar .logo{
+    margin-top: 0px;
+    width: 5rem;
+   
+    margin-left: 30px;
+    z-index: 5;
+}
+#navbar .logo img{
+    width: 100%;
+    margin-top: 10%;
+}
+#navbar .nav-items{
+    display: flex;
+    list-style: none;
+    margin-right: 30px;
+    margin: 25px 30px 25px 0;
+}
+#navbar .nav-items li{
+    margin: 0 1rem;
+}
+#navbar .nav-items li a{
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    cursor: pointer;
+     font-family: bold;
+}
+#navbar .nav-items li a:hover{
+    color: blue;
+}
+
+.sectionA{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgba(217, 217, 217, 0.2);   
+    width: 100%;
+    height: 500px;
+    margin-bottom: 10px;
+    font-family: bold;
+}
+.image1{
+     width: 45%;
+    height: 400px;
+
+}
+.image2{
+     width: 45%;
+    height: 300px;
+
+}
+.p{
+    font-family: bold;
+    font-size: 32px;
+}
+.text1{
+     width: 45%;
+    height: 400px;
+     font-family: bold; 
+
+}
+
+
+.section2{
+      width: 100%;
+      height: 400px;
+      background-color: 
+      flex-direction: row;
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      background-color: rgba(217, 217, 217, 0.2); 
+}
+.sectionZ{
+      width: 100%;
+      height: 400px;
+      background-color:; 
+      flex-direction: row;
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      background-color: 
+}
+.DIVA{
+      width: 50%;
+      height: 410px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-around;
+      align-items: center;
+      margin-bottom: 20px;
+       font-family: bold;
+       background-color: rgba(217, 217, 217, 0.2); 
+}
+.DIVA div{
+      width: 70%;
+      height: 500px;
+      border-radius: 20px;
+       font-family: bold;
+}
+.DIVC{
+      width: 100%;
+      height: 450px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-around;
+      align-items: center;
+      margin-bottom: 20px;
+       font-family: bold;
+}
+.DIVC div{
+      width: 90%;
+      height: 400px;
+      background-color: rgba(217, 217, 217, 0.2);
+       font-family: bold;
+}
+
+.section1{
+      width: 100%;
+      height: 600px;
+      background-color: rgba(217, 217, 217, 0.2);
+      flex-direction: row;
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+}
+.DIV1{
+      width: 30%;
+      height: 500px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-around;
+      align-items: center;
+      background-color: white;
+      margin-bottom: 10px;
+       font-family: bold;
+
+}
+.DIV1 div{
+      width: 90%;
+      height: 220px;
+      background-color: white;
+       font-family: bold;
+}
+.DIV2{
+      width: 30%;
+      height: 500px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-around;
+      align-items: center;
+      background-color: white;
+      margin-bottom: 10px;
+       font-family: bold;
+}
+.DIV2 div{
+      width: 90%;
+      height: 220px;
+      background-color: white;
+       font-family: bold;
+}
+.DIV3{
+      width: 30%;
+      height: 500px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-around;
+      align-items: center;
+      background-color: white;
+      margin-bottom: 20px;
+       font-family: bold;
+}
+.DIV3 div{
+      width: 90%;
+      height: 220px;
+      background-color: white;
+       font-family: bold;
+}
+.sectionB{
+      display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    background: white;
+    width: 100%;
+    height: 70px;
+     font-family: bold;
+}
+.sectionD{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    background: white;
+    width: 100%;
+    height: 70px;
+    margin-bottom: 20px;
+     font-family: bold;
+}
+.sectionE{
+      display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgba(217, 217, 217, 0.37);
+    width: 100%;
+    height: 150px;
+    text-align: center;
+    margin-bottom: 20px;
+     font-family: bold;
+}
+
+/*           */
+
+.section3{
+      width: 100%;
+      height: 400px;
+      background-color: rgba(217, 217, 217, 0.37);
+      flex-direction: row;
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+       font-family: bold;
+}
+.DIV01{
+      width: 20%;
+      height: 200px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-around;
+      align-items: center;
+      background-color: white;
+      margin-bottom: 20px;
+       font-family: bold;
+
+}
+.DIV01 div{
+      width: 70%;
+      height: 100px;
+      background-color: white;
+       font-family: bold;
+}
+.DIV02{
+      width: 20%;
+      height: 300px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-around;
+      align-items: center;
+      background-color: white;
+      margin-bottom: 20px;
+       font-family: bold;
+}
+.DIV02 div{
+      width: 70%;
+      height: 100px;
+      background-color: white;
+       font-family: bold;
+}
+.DIV03{
+      width: 20%;
+      height: 300px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-around;
+      align-items: center;
+      background-color: white;
+      margin-bottom: 10px;
+       font-family: bold;
+}
+.DIV03 div{
+      width: 70%;
+      height: 100px;
+      background-color: white;
+       font-family: bold;
+}
+.DIV04{
+      width: 20%;
+      height: 300px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-around;
+      align-items: center;
+      background-color: white;
+      margin-bottom: 20px;
+       font-family: bold;
+}
+.DIV04 div{
+      width: 70%;
+      height: 100px;
+      background-color: white;
+       font-family: bold;
+}
+.DIV05{
+      width: 20%;
+      height: 300px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-around;
+      align-items: center;
+      background-color: white;
+      margin-bottom: 20px;
+       font-family: bold;
+}
+.DIV05 div{
+      width: 70%;
+      height: 100px;
+      background-color: white;
+       font-family: bold;
+}
+.sectionQ{
+      display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    background-color: white;
+    width: 100%;
+    height: 70px;
+     font-family: bold;
+}
+.section4{
+      width: 100%;
+      height: 500px;
+      background-color: red;
+      flex-direction: row;
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+       font-family: bold;
+}
+.sectionI{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        align-items: center;
+        background: white;
+        width: 100%;
+        height: 70px;
+         font-family: bold;
+}
+.contact{
+      display: flex;
+      flex-direction: row;
+      justify-content: space-around;
+      align-items: center;
+      background-color:  rgba(217, 217, 217, 0.37);
+      width: 100%;
+      height: 420px;
+      margin-bottom: 2px;
+       font-family: bold;
+}
+.contact div{
+      width: 40%;
+      height: 380px;
+      background-color:#260F84;
+       font-family: bold;
+    border-radius: 10px;
+}
+.form{
+    text-align: center;
+    width: 300px;
+    margin: 0px auto 0;
+    padding: 20px;
+    box-shadow: 0 0 3px black;
+    background-color: #260F84;
+     font-family: bold;
+}
+
+.input{
+    border-radius: 10px;
+    padding: 8px;
+    margin: 10px 0;
+    border: 2px solid white;
+    font-family: bold;
+    height: 40px;
+}
+h1{
+    color: black;
+     font-family: bold;
+}
+button{
+    border-radius: 20px;
+    padding: 5px;
+    width: 25%;
+    background-color: white;
+    border: white;
+    color: black;
+    font-family: bold;
+
+}
+.foo {
+    background-color:white;
+    align-items: left;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    height:80px;
+    margin-bottom: 10px;
+    font-family: bold;
+}
+.foot{
+    background-color:rgba(217, 217, 217, 0.37); 
+    margin-left: auto;
+    width: 100%;
+    height:60px;
+    font-family: bold;
+}
